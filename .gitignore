@@ -1,0 +1,37 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / JetBrains
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Crash / Cache files
+sysinfo.txt
+*.stacktrace
+
+# Ignore auto-generated Asset Store tools
+Assets/AssetStoreTools*
+
+# Ignore MemoryCaptures
+MemoryCaptures/
+
+# Ignore large binary files (optional)
+*.7z
+*.tar
+*.tar.gz
+*.zip
+*.dylib
